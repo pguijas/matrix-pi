@@ -1,0 +1,5 @@
+<_io.TextIOWrapper name='output.txt' mode='w' encoding='UTF-8'>
+<_io.TextIOWrapper name='output.py' mode='w' encoding='UTF-8'>
+<_io.TextIOWrapper name='fonaa.py' mode='w' encoding='UTF-8'>
+a
+a
