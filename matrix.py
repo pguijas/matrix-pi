@@ -14,8 +14,6 @@ class Matriz:
         self.pixels=neopixel.NeoPixel(board.D18,width*height)
         self.width=width
         self.height=height
-
-        self.font = ImageFont.truetype("/Users/pguijas/Documents/5x8.ttf", 8)
         
     #Manda Colores a Posiciones
     '''
